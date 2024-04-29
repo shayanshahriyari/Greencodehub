@@ -1,0 +1,56 @@
+@media only screen and (max-width: 1200px) {
+    .email_btn{
+        margin-right: 270px;
+        
+        }
+}
+@media only screen and (max-width: 998px) {
+   .header_name{
+    display: none;
+   }
+  
+  }
+@media only screen and (max-width: 991px) {
+   .header_name{
+    display: none;
+   }
+   .email_btn{
+    margin-right: 170px;
+    
+    }
+  }
+@media only screen and (max-width: 767px) {
+   .header_name{
+    display: none;
+   }
+   .main_btn{
+    margin-right: 250px;
+    margin-top: 40px;
+}
+.email_btn{
+    margin-right: 400px;
+    
+    }
+    .element_style{
+        border-bottom: 3px solid;
+        width: 200px;
+        margin-top: 25px;
+        margin-right: 25px;
+    }
+    .list_style{
+        list-style: none;
+        margin-right: -5px;
+        }
+  }
+  @media only screen and (max-width: 991px) {
+    .email_btn{
+     margin-right: 400px;
+     
+     }
+   }
+  @media only screen and (max-width: 991px) {
+  .email_btn{
+     margin-right: 390px;
+     
+     }
+   }

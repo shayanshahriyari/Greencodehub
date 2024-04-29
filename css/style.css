@@ -1,0 +1,100 @@
+@font-face {
+    font-family: Vazir-Bold;
+    src: url(../Font/Vazir-Bold-FD-WOL.ttf) format("ttf");
+    font-family: Vazir-Light ;
+    src: url(../Font/Vazir-Light-FD-WOL.ttf) format("ttf");
+    font-family: Vazir-Medium; 
+    src: url(../Font/Vazir-Medium-FD-WOL.ttf) format("ttf");
+}
+
+*{
+    font-family:Vazir !important;
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-weight: Medium;
+}
+
+.header_name{
+    color:#4CAF50;
+    margin-top: 40px;
+}
+.image_logo{
+width: 40px;
+}
+.offcanvas-title{
+    color: #00796B;
+}
+.nav-link dropdown-toggle{
+    border: none;
+}
+.main_title{
+    margin-right: 25px;
+}
+.main_text{
+    margin-right: 25px;
+}
+.main_btn{
+    margin-right: 150px;
+    margin-top: 40px;
+}
+.product_title{
+    color: green;
+}   
+.card_color{
+    background-color: #00796B;
+}
+.card-body1{
+    margin-right: 10px;
+}
+
+.section_team{
+    margin-right: 70px;
+}
+.main_text_2{
+margin-right: 20px;
+}
+.fw-bold mt-5 .main_text{
+    font-family: Vazir-Bold !important;
+}
+.call_section{
+    color: green;
+    margin-top: 15px;
+}
+.email_section{
+    margin-right: 30px;
+}
+.email_btn{
+margin-right: 370px;
+margin-top: 10px;
+}
+.img-fluid{
+    margin-bottom: 50px;
+}
+.courses_icon{
+    margin-top: 20px;
+}
+.social_icon{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+}
+.footer_title{
+    margin-right: 30px;
+    color: #00796B;
+}
+.footer_text{
+    margin-right: 30px;
+}
+.element_style{
+    border-bottom: 3px solid;
+    width: 200px;
+    margin-top: 25px;
+}
+.list_style{
+list-style: none;
+margin-right: -30px;
+}
+.link_style{
+    color: inherit;
+ text-decoration: none;
+}
